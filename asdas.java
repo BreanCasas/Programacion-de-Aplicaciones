@@ -7,19 +7,13 @@
  *
  * @author brean
  */
-public class dasdasd {
+public class asdas {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
         // TODO code application logic here
-        System.out.println("hoola");
-System.out.println("hoola");
-System.out.println("hoola");
-//cofjdsiofmdsplfmf
-       //borre porqueriaasdasdasd
-System.out.println("hoola");
-
+        //sddsds
     }
 }
